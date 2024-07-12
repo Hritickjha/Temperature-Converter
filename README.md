@@ -1,5 +1,5 @@
 #####################################
-#   Temperature Converter README    #
+#   Temperature Converter     #
 #####################################
 
 This repository contains a temperature converter tool that allows users to convert temperatures between Celsius and Fahrenheit.
